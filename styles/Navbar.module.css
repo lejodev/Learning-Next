@@ -1,0 +1,13 @@
+.navbar {
+    width: 100vw;
+    height: 6vh;
+    background-color: #234;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    margin: 2em;
+    color: white;
+}
