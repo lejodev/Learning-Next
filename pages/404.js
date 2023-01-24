@@ -6,7 +6,7 @@ const pageNotFound = () => {
     <div className={styles.page}>
         <Head>
             <title>Page not found</title>
-        </Head>
+        </Head> 
       <div className={styles.handSign}>🤏</div>
     </div>
   );
